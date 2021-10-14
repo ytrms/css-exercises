@@ -1,0 +1,19 @@
+.pinkish {
+    background-color: #f3a0a0;
+    font-family: Verdana, sans-serif;
+}
+
+#blue {
+    color:#8080d3;
+    font-size: 36px;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#greenish {
+    background-color: #7ff807;
+    font-size: 24px;
+    font-weight: bold;
+}
